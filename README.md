@@ -50,4 +50,4 @@ This project successfully demonstrates a complete data engineering pipeline for 
 ## Contact
 Feel free to reach out to me for any questions or collaboration opportunities:
 - **Email:** justinutodio@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/justin-uto-dieu)
+- **LinkedIn:** [Justin Uto-Dieu](https://linkedin.com/in/justin-uto-dieu)
