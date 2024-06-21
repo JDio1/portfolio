@@ -46,6 +46,16 @@ This project automates the collection, processing, and storage of weather data u
 **Results:**  
 This project successfully demonstrates a complete data engineering pipeline for fetching, processing, and storing weather data. By integrating the OpenWeatherMap API with Google Cloud Platform services, the pipeline automates data collection and storage, making real-time weather information readily accessible for analysis and visualization. The project showcases effective use of Python scripting and cloud infrastructure to handle and manage data efficiently.
 
+### Project 3: [PowerBI Survey Analysis](https://github.com/JDio1/Power_BI_Survey_Analysis)
+**Brief Overview:**  
+This project aims to analyze a survey dataset collected from data professionals to derive meaningful insights. Using Power BI, the dataset was cleaned, transformed, and visualized, addressing issues such as missing values and inconsistent data types.
+
+**Technology Used:**  
+- Power BI
+
+**Results:**  
+The project resulted in a user-friendly Power BI dashboard that provides clear, actionable insights into the preferences, experiences, and challenges faced by data professionals. This dashboard aids in better decision-making and strategic planning based on survey responses.
+
 
 ## Contact
 Feel free to reach out to me for any questions or collaboration opportunities:
