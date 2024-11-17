@@ -79,8 +79,16 @@ This project aims to analyze a survey dataset collected from data professionals 
 **Results:**  
 The project resulted in a user-friendly Power BI dashboard that provides clear, actionable insights into the preferences, experiences, and challenges faced by data professionals. This dashboard aids in better decision-making and strategic planning based on survey responses.
 
+### Project 5: [PowerBI Performance Report](https://github.com/JDio1/Power_BI_Performance_Report)
+**Brief Overview:**  
+This project shows the performamnce report of Plant Co. in terms of Gross Profit, Sales, and Quanty in different countries in 2023 to 2024.
+**Technology Used:**  
+- Power BI
 
-### Project 5: [Iris Predictor Cloud Function & Machine Learning](https://github.com/JDio1/Iris_Predictor)
+**Results:**  
+The project resulted in a user-friendly Power BI dashboard that provides a condensed, dynamic performance report that utilises SWITCH measures and conditional formatting.
+
+### Project 6: [Iris Predictor Cloud Function & Machine Learning](https://github.com/JDio1/Iris_Predictor)
 **Brief Overview:**  
 The Iris Predictor Cloud Function is a serverless machine learning service that predicts the species of an iris flower based on its sepal and petal dimensions. Utilizing Google Cloud Functions and a pre-trained Scikit-learn model, this project demonstrates the seamless integration of machine learning into a scalable, serverless environment. It provides a RESTful API endpoint for real-time predictions, showcasing efficient deployment of ML models without the need for managing infrastructure.
 
